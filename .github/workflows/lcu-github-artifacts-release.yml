@@ -1,4 +1,4 @@
-name: FathymTesterA - $public-web-react
+name: FathymTesterA/public-web-react
 
 on:
   push:
